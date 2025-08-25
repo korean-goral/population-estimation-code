@@ -1,0 +1,108 @@
+spNrj : sigma ~ unif, N ~ Negbin(),  lambda ~ unif, s ~ unifspNrj : sigma ~ unif, N ~ Negbin(),  lambda ~ unif, s ~ unifspNrj : sigma ~ unif, N ~ Negbin(),  lambda ~ unif, s ~ unifspNrj : sigma ~ unif, N ~ Negbin(),  lambda ~ unif, s ~ unif  spNrj : sigma ~ unif, N ~ Negbin(),  lambda ~ unif, s ~ unif 
+ 
+spNrj : sigma ~ unif, N ~ Negbin(),  lambda ~ unif, s ~ unif
+ 
+spNrj : sigma ~ unif, N ~ Negbin(),  lambda ~ unif, s ~ unif
+initial values =
+initial values = 
+spNrj : sigma ~ unif, N ~ Negbin(),  lambda ~ unif, s ~ unif
+initial values =  
+initial values = 
+spNrj : sigma ~ unif, N ~ Negbin(),  lambda ~ unif, s ~ unif 
+initial values =  
+2.152561 
+initial values = 1.225201
+  
+ 0.02677301
+initial values =3.576960.1573316 
+initial values = 4.0508460.4270149  
+initial values = 3.6001370.8685978   0.265078873221  0.72479590.9655237   1.495477 298 0.339257
+
+1.177599
+
+138  0.5668694 226  
+
+ 0.7152101 241
+
+0.3008011250 
+
+   
+
+371
+
+290  
+
+
+
+iter 1000 23:31:29 
+current = 0.2090414 0.2356903 24 
+  Acceptance rates
+    S = 0.04277228 
+    N = 0.08133333 
+    lam0 = 0.12 
+    sigma = 0.09 
+end of the sampling, 
+iter 1000 23:31:29 
+current = 0.2032321 0.314238 26 
+  Acceptance rates
+    S = 0.04879774 
+    N = 0.08333333 
+    lam0 = 0.21 
+    sigma = 0.03 
+end of the sampling, 
+iter 1000 23:31:30 
+current = 0.2979784 0.1169767 29 
+  Acceptance rates
+    S = 0.04873646 
+    N = 0.04133333 
+    lam0 = 0.17 
+    sigma = 0.25 
+end of the sampling, 
+iter 1000 23:31:30 
+current = 0.2788338 0.2136668 19 
+  Acceptance rates
+    S = 0.04044321 
+    N = 0.03533333 
+    lam0 = 0.14 
+    sigma = 0.13 
+end of the sampling, 
+iter 1000 23:31:30 
+current = 0.2076118 0.1422144 59 
+  Acceptance rates
+    S = 0.1025962 
+    N = 0.1126667 
+    lam0 = 0.14 
+    sigma = 0.09 
+end of the sampling, 
+iter 1000 23:31:30 
+current = 0.2002342 0.2448055 27 
+  Acceptance rates
+    S = 0.06457565 
+    N = 0.078 
+    lam0 = 0.13 
+    sigma = 0.09 
+end of the sampling, 
+iter 1000 23:31:31 
+current = 0.1982117 0.1459206 48 
+  Acceptance rates
+    S = 0.1262705 
+    N = 0.182 
+    lam0 = 0.17 
+    sigma = 0.04 
+end of the sampling, 
+iter 1000 23:31:34 
+current = 0.1745181 0.1420395 65 
+  Acceptance rates
+    S = 0.1425393 
+    N = 0.2226667 
+    lam0 = 0.12 
+    sigma = 0.06 
+end of the sampling, 
+iter 1000 23:32:44 
+current = 0.03540759 0.2863731 862 
+  Acceptance rates
+    S = 0.3035618 
+    N = 0.8033333 
+    lam0 = 0.19 
+    sigma = 0 
+end of the sampling, 
